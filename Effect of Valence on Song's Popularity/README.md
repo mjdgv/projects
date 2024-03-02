@@ -4,7 +4,7 @@ With streaming services being more popular than ever, what makes a song popular 
 
 **Disclaimer**
 
-This project was a team effort. I wrote most of the R code with the excpetion of the model diagnostics graphs.
+This project was a team effort. I wrote most of the R code with the exception of the model diagnostics graphs.
 
 **Findings**
 
